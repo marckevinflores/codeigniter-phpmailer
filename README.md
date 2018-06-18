@@ -4,6 +4,9 @@ Tested on Codeigniter version : 3.1.8
 
 PHPMailer version: 6.0.5
 
+How to install: 
+Download this package and uncompress it within application/ directory of your CodeIgniter site.
+
 Note:  PHP openssl module should be enabled if encrypted SMTP access is required 
 and Your google account must enable the Allow less security apps: ON
 
